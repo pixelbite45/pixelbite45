@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 - 🔭 Currently exploring **AI/ML** and **full-stack app development**
-- 💡 I love learning about neural networks, deep learning, and mobile UI/UX
+- 💡 I love learning about neural networks, deep learning
 - 🛠️ Languages I use:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
