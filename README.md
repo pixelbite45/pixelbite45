@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Rohan Samanta!
 
 🎓 I'm a Computer Science Engineering student passionate about **Artificial Intelligence** and **App Development**.  
 💻 I enjoy building smart systems, exploring new technologies, and turning ideas into reality through code.
